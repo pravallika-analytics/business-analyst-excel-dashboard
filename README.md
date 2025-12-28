@@ -32,7 +32,7 @@ Business leaders need a clear and efficient way to monitor sales performance, id
 - Highlighted underperforming segments for improvement opportunities
 
 ## 📁 Files Included
-- `Dashboard Data.xlsx` – Excel dashboard with interactive visuals
+- `Excel_Business_Performance_Dashboard.xlsx` – Excel dashboard with interactive visuals
 
 ## 🚀 How to Use
 1. Download the Excel file
