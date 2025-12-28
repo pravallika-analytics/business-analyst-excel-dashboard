@@ -33,6 +33,10 @@ Business leaders need a clear and efficient way to monitor sales performance, id
 
 ## 📁 Files Included
 - `Excel_Business_Performance_Dashboard.xlsx` – Excel dashboard with interactive visuals
+  
+## Dashboard View:
+<img width="1388" height="606" alt="image" src="https://github.com/user-attachments/assets/dfe3481d-f5af-43e0-831d-1083809c6e67" />
+
 
 ## 🚀 How to Use
 1. Download the Excel file
@@ -41,3 +45,6 @@ Business leaders need a clear and efficient way to monitor sales performance, id
 
 ## 📈 Business Value
 This dashboard demonstrates how Excel can be used as a powerful analytics tool to transform raw data into actionable insights for business and leadership teams.
+
+
+
